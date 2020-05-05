@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre-10.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/FastInfoset.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/gmbal-api-only.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/ha-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/istack-commons-runtime.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/istack-commons-runtime-3.0.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/javax.activation.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/javax.activation-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/javax.annotation-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/javax.xml.soap-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jaxb-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jaxb-api-2.3.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jaxb-core-2.3.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jaxb-impl-2.3.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jaxb-jxc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jaxb-runtime.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jaxb-xjc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jaxws-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jaxws-rt.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jaxws-tools.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/jsr181-api-1.0-MR1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/management-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/mimepull.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/policy.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/saaj-impl.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/stax2-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/stax-ex.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/streambuffer.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/txw2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/txw2-2.3.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/SOA and Cloud Computing/tehtavat/jaxws-ri/lib/woodstox-core.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
